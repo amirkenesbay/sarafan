@@ -19,11 +19,11 @@ public class MessageController {
         }});
         add(new HashMap<>() {{
             put("id", "2");
-            put("text", "FirstMessage");
+            put("text", "SecondMessage");
         }});
         add(new HashMap<>() {{
             put("id", "3");
-            put("text", "FirstMessage");
+            put("text", "ThirdMessage");
         }});
     }};
 
